@@ -6,4 +6,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/runoob09/count.svg
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runoob09&layout=compact)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=runoob09&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@runoob09&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
